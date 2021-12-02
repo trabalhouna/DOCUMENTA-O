@@ -3,6 +3,11 @@ Fazer com que a pessoa entre no nosso jogo, coloque seus dados e a partir dai es
 # DEFINIÇÕES E SIGLAS
 # CRONOGRAMA PREVISTO
 # COLABORADORES
+Arthur Machado Ferreira
+Rebeca Cândida
+Brayan Henrique
+Júlia Soares
+Gabryel Júnio
 # BACKLOG DO PRODUTO
 # SPRINTS
 # DIAGRAMA DE CASOS DE USO DO SISTEMA 
