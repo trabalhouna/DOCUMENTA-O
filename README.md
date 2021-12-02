@@ -1,6 +1,5 @@
 # OBJETIVOS DO SISTEMA
-O Sistema é um jogo em que consiste em um quiz sobre: Programação  de soluções computacionais. Cada Player deverá preencher seu dados e logo após escolher dentre 5 tipos de alunos como um de seus personagens.                          
-O jogo só termina quando a vida de um dos personagens é zerada.
+
 # DEFINIÇÕES E SIGLAS
 # CRONOGRAMA PREVISTO
 # COLABORADORES
