@@ -10,6 +10,8 @@ O jogo só termina quando a vida de um dos personagens é zerada.
 - Júlia Soares;
 - Gabryel Júnio;
 # BACKLOG DO PRODUTO
+![image](https://user-images.githubusercontent.com/93957231/144930838-b9b09113-de83-483c-832f-56f6e1445031.png)
+
 # SPRINTS
 # DIAGRAMA DE CASOS DE USO DO SISTEMA
 ![image](https://user-images.githubusercontent.com/93957231/144485218-8dc76c88-3aa4-47c7-b172-3c139bad7af0.png)
