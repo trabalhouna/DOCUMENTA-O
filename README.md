@@ -21,3 +21,4 @@ O jogo só termina quando a vida de um dos personagens é zerada.
 ![image](https://user-images.githubusercontent.com/90733513/144491506-afa80272-1057-4e9e-83b9-fc5236c7a930.png)
 
 # MODELO RELACIONAL DA BASE DE DADOS DO SISTEMA
+
