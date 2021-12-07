@@ -2,7 +2,7 @@
 O Sistema é um jogo em que consiste em um quiz sobre: Programação  de soluções computacionais. Cada Player deverá preencher seu dados e logo após escolher dentre 5 tipos de alunos como um de seus personagens.                          
 O jogo só termina quando a vida de um dos personagens é zerada.
 # DEFINIÇÕES E SIGLAS
-https://docs.google.com/document/d/1vjoVl7SoSf4mjSZMdmpiHnPYI7dTQS9EkJhELkm5cPQ/edit?usp=sharing
+https://github.com/trabalhouna/DOCUMENTACAO/blob/main/Defini%C3%A7%C3%B5es%20(1).pdf
 # CRONOGRAMA PREVISTO
 https://docs.google.com/document/d/1WeE4CT4u3NKX_v6JC4g6CzyioxK0UKWlEDFTlUlfRxE/edit?usp=sharing
 # COLABORADORES
