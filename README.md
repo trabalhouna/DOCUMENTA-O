@@ -15,6 +15,8 @@ https://docs.google.com/document/d/1WeE4CT4u3NKX_v6JC4g6CzyioxK0UKWlEDFTlUlfRxE/
 ![image](https://user-images.githubusercontent.com/93957231/144930838-b9b09113-de83-483c-832f-56f6e1445031.png)
 
 # SPRINTS
+![image](https://user-images.githubusercontent.com/90733513/144957498-903e064d-3df5-49d3-91a8-064c7406dceb.png)
+
 # DIAGRAMA DE CASOS DE USO DO SISTEMA
 ![image](https://user-images.githubusercontent.com/93957231/144485218-8dc76c88-3aa4-47c7-b172-3c139bad7af0.png)
 
