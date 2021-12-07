@@ -4,7 +4,7 @@ O jogo só termina quando a vida de um dos personagens é zerada.
 # DEFINIÇÕES E SIGLAS
 
 # CRONOGRAMA PREVISTO
-https://github.com/trabalhouna/DOCUMENTACAO/blob/main/CRONOGRAMA_PREVISTO.docx
+https://docs.google.com/document/d/1WeE4CT4u3NKX_v6JC4g6CzyioxK0UKWlEDFTlUlfRxE/edit?usp=sharing
 # COLABORADORES
 - Arthur Machado Ferreira;
 - Rebeca Cândida dos Santos;
